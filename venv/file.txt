@@ -1,0 +1,2 @@
+        for i in range(3):
+            self.info_classrooms_table.setItemDelegateForColumn(i, ReadOnlyDelegate(self.info_classrooms_table))

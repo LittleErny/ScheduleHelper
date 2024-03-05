@@ -1,0 +1,10 @@
+altgraph==0.17
+future==0.18.2
+pefile==2019.4.18
+pip==20.2.4
+PyQt5==5.15.1
+PyQt5-sip==12.8.1
+PyQt5-stubs==5.14.2.2
+pywin32-ctypes==0.2.0
+setuptools==50.3.2
+wheel==0.35.1
