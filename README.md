@@ -8,10 +8,6 @@ Schedule Helper is a Python 3.8 program designed specifically for teachers and d
 - **Database Integration:** The program utilizes an SQLite database, named "DataBase.db," which is included in the project folder.
 - **Error Handling (Future Implementation):** Future versions of the program will include data validation, alerting users about any input errors.
 
-## Project Structure
-- **Presentation:** A presentation accompanying the project provides an overview of the program's structure, functionality, and database schema.
-- **Database:** The database structure follows the SQLite format and is utilized for storing and managing schedule-related data.
-
 ## How to Run
 1. **Install Dependencies:** Ensure PyCharm and Python 3.8 are installed on your system.
 2. **Open Project:** Open the project folder in PyCharm.
@@ -19,6 +15,7 @@ Schedule Helper is a Python 3.8 program designed specifically for teachers and d
 
 ## Note
 - **Incomplete Functionality:** Please note that the program is not yet fully developed and lacks several features necessary for complete functionality. However, significant progress has been made within a short timeframe, providing valuable experience in Python programming, as well as working with libraries such as PyQT5 and SQLite3.
+- See presentations for more info
 
 ## Support
 For any questions or assistance, please contact the developer, Mikhail Avrutskii.
