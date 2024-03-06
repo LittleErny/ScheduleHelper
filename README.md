@@ -1,4 +1,4 @@
-# Schedule Helper
+# Schedule Helper (2020)
 
 Schedule Helper is a Python 3.8 program designed specifically for teachers and deputy heads of schools. The program helps to systematize the information necessary for compiling schedules, and in future versions, data validation will be implemented (i.e., the program will inform the user about errors). To run the program, PyCharm and Python 3.8 need to be installed (they are already included in the project folder).
 
